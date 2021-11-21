@@ -1,0 +1,70 @@
+body {
+    background-image: url("../img/galaxie.jpg");
+    background-size: cover;
+}
+nav {
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+h1 {
+    color: white;
+    text-shadow: 0 0 1em white;
+}
+
+button {
+    background-color: rgba(127, 204, 255, 0.212);
+    box-shadow: 0 0 1em white;
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.767);
+    box-shadow: 0 0 1em white;
+    border-style: none;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+}
+
+.local {
+    background-color: rgba(127, 204, 255, 0.212);
+    box-shadow: 0 0 1em white;
+    margin: 2%;
+}
+
+.local1 {
+    background-color: rgba(127, 204, 255, 0.212);
+    box-shadow: 0 0 1em white;
+    margin: 2%;
+}
+
+div {
+    padding: 1%;
+}
+
+.local img {
+    float: left;
+    width: 30%;
+    margin: 1%;
+}
+
+.local1 img {
+    float: right;
+    width: 30%;
+    margin: 1%;
+}
+
+img:hover {
+    width: 50%;
+    
+}
+
+h4 {
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
